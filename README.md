@@ -7,7 +7,7 @@
 <br />
 <br />
 	<samp>
-	I am <b>Monish lalani</b>, a passionate🥇, self-taught🔧data analyst/data scientist  from Vapi, India. <br />
+	I am <b>Monish lalani</b>, a passionate🥇, self-taught🔧 data analyst/data scientist  from Vapi, India. <br />
 		My passion for data analysis lies in dreaming up ideas and making them come true with high quality business insights leveraging the best data analysis and machine learning models.<p/>
 		</samp>
 
